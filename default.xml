@@ -2,7 +2,7 @@
     <manifest>
 
         <remote  name="origin"
-                 fetch="https://github.com/zhaokun00/" />
+                 fetch="git@github.com:zhaokun00/" />
 
         <default revision="master"
                  remote="origin"/>
