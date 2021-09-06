@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <manifest>
+
+        <remote  name="origin"
+                 fetch="https://github.com/zhaokun00/" />
+
+        <default revision="master"
+                 remote="origin"/>
+
+        <project name="utils_cplusplus" path="utils_cplusplus" />
+
+ </manifest>
