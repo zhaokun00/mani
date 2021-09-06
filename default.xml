@@ -2,7 +2,7 @@
     <manifest>
 
         <remote  name="origin"
-                 fetch="git@github.com:zhaokun00/" />
+                 fetch="https://github.com/zhaokun00/utils_cplusplus/" />
 
         <default revision="master"
                  remote="origin"/>
